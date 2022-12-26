@@ -1,0 +1,10 @@
+.menu-container a{
+    margin-right: 15px;
+}
+
+.menu-container{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    height: 100%;
+}
